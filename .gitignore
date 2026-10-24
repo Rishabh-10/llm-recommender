@@ -1,0 +1,5 @@
+.local.env
+*.env
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+__pycache__/
